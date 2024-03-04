@@ -1,0 +1,71 @@
+/* Write your CSS code here */
+.mainformcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image1 {
+  height: 300px;
+  width: 400px;
+}
+.image2 {
+  height: 50px;
+  width: 200px;
+}
+.formcontainer {
+  background-color: #ffffff;
+  height: 450px;
+  width: 400px;
+  box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.userinput {
+  height: 37px;
+  width: 250px;
+  background-color: #d7dfe9;
+  border: 0px;
+  border-radius: 6px;
+}
+.inputcontainer {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+.loginbtn {
+  background-color: #ea580c;
+  height: 40px;
+  width: 150px;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 10px;
+}
+.successcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.successimg {
+  height: 100px;
+  width: 100px;
+}
+.successbtn {
+  background-color: #ea580c;
+  height: 40px;
+  width: 250px;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 10px;
+}
+.mainheading {
+  color: #ea580c;
+  font-size: 46px;
+  padding-bottom: 23px;
+}
+
